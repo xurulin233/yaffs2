@@ -1,0 +1,4 @@
+git://www.aleph1.co.uk/yaffs2
+cd yaffs2/utils
+make V=s
+
